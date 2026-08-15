@@ -1,35 +1,12 @@
-# Core
-numpy>=1.26.0
-pandas>=2.2.0
-tqdm>=4.66.0
-
-# Machine Learning
-torch>=2.4.0
-transformers>=4.45.0
-sentence-transformers>=3.0.0
-scikit-learn>=1.5.0
-
-# Vector Database & RAG
-chromadb>=0.5.0
-langchain>=0.3.0
-langchain-community>=0.3.0
-langchain-chroma>=0.1.4
-ragatouille>=0.0.8
-
-# NLP
-nltk>=3.9
-pymorphy2>=0.9.1
-
-# Visualization
-matplotlib>=3.9.0
-plotly>=5.24.0
-umap-learn>=0.5.6
-
-# Utilities
-requests>=2.32.0
-Pillow>=10.0.0
-gdown>=5.2.0
-bitsandbytes>=0.43.0
-jupyter>=1.1.1
-notebook>=7.2.2
-ipykernel>=6.29.5
+accelerate
+bitsandbytes
+gdown
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+pymorphy3
+sentence-transformers
+sentencepiece
+transformers
+umap-learn
